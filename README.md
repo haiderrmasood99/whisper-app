@@ -21,6 +21,7 @@ You can install the required packages using the following commands:
 ```
 pip install streamlit
 pip install whisper
+pip install openai-whisper
 ```
 
 ## How to Run
